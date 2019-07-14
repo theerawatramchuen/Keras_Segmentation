@@ -9,3 +9,5 @@ test with "myTest.py"
 https://drive.google.com/file/d/0B0d9ZiqAgFkiOHR1NTJhWVJMNEU/view?usp=sharing
 
 You will get a folder named dataset1/
+
+test training with "myTrain.py"
