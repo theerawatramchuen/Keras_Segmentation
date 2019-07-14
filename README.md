@@ -6,4 +6,5 @@ https://github.com/divamgupta/image-segmentation-keras
 
 ## Download the sample prepared dataset
 https://drive.google.com/file/d/0B0d9ZiqAgFkiOHR1NTJhWVJMNEU/view?usp=sharing
+
 You will get a folder named dataset1/
