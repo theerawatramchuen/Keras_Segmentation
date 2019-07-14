@@ -1,4 +1,4 @@
 # Keras Segmentation
 ## Original Source
 https://github.com/divamgupta/image-segmentation-keras
-## Goto source and clone repostionary
+## Goto source and clone repository
